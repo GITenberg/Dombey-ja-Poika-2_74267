@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '43887'
     url: http://www.gutenberg.org/2009/agents/43887
     wikipedia: https://fi.wikipedia.org/wiki/Aino_Tuomikoski
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dickens, Charles
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37
     wikipedia: https://en.wikipedia.org/wiki/Charles_Dickens
 description: Translation of second part of Dombey and Son.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74267#Dombey-ja-Poika-2
 gutenberg_issued: '2024-08-16'
 gutenberg_type: Text
 identifiers:
